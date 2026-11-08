@@ -1,0 +1,6 @@
+# Allowlist: pubblicare SOLO questi quattro file.
+*
+!.gitignore
+!README.md
+!backup.sh
+!esplora.sh
